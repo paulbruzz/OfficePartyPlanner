@@ -1,0 +1,14 @@
+C:\Users\paolo.bruzzo\Documents\C#_projects\OfficePartyPlanner\bin\Debug\net9.0\OfficePartyPlanner.exe
+C:\Users\paolo.bruzzo\Documents\C#_projects\OfficePartyPlanner\bin\Debug\net9.0\OfficePartyPlanner.deps.json
+C:\Users\paolo.bruzzo\Documents\C#_projects\OfficePartyPlanner\bin\Debug\net9.0\OfficePartyPlanner.runtimeconfig.json
+C:\Users\paolo.bruzzo\Documents\C#_projects\OfficePartyPlanner\bin\Debug\net9.0\OfficePartyPlanner.dll
+C:\Users\paolo.bruzzo\Documents\C#_projects\OfficePartyPlanner\bin\Debug\net9.0\OfficePartyPlanner.pdb
+C:\Users\paolo.bruzzo\Documents\C#_projects\OfficePartyPlanner\obj\Debug\net9.0\OfficePartyPlanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paolo.bruzzo\Documents\C#_projects\OfficePartyPlanner\obj\Debug\net9.0\OfficePartyPlanner.AssemblyInfoInputs.cache
+C:\Users\paolo.bruzzo\Documents\C#_projects\OfficePartyPlanner\obj\Debug\net9.0\OfficePartyPlanner.AssemblyInfo.cs
+C:\Users\paolo.bruzzo\Documents\C#_projects\OfficePartyPlanner\obj\Debug\net9.0\OfficePartyPlanner.csproj.CoreCompileInputs.cache
+C:\Users\paolo.bruzzo\Documents\C#_projects\OfficePartyPlanner\obj\Debug\net9.0\OfficePartyPlanner.dll
+C:\Users\paolo.bruzzo\Documents\C#_projects\OfficePartyPlanner\obj\Debug\net9.0\refint\OfficePartyPlanner.dll
+C:\Users\paolo.bruzzo\Documents\C#_projects\OfficePartyPlanner\obj\Debug\net9.0\OfficePartyPlanner.pdb
+C:\Users\paolo.bruzzo\Documents\C#_projects\OfficePartyPlanner\obj\Debug\net9.0\OfficePartyPlanner.genruntimeconfig.cache
+C:\Users\paolo.bruzzo\Documents\C#_projects\OfficePartyPlanner\obj\Debug\net9.0\ref\OfficePartyPlanner.dll
