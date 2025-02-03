@@ -12,3 +12,4 @@ C:\Users\paolo.bruzzo\Documents\C#_projects\OfficePartyPlanner\obj\Debug\net9.0\
 C:\Users\paolo.bruzzo\Documents\C#_projects\OfficePartyPlanner\obj\Debug\net9.0\OfficePartyPlanner.pdb
 C:\Users\paolo.bruzzo\Documents\C#_projects\OfficePartyPlanner\obj\Debug\net9.0\OfficePartyPlanner.genruntimeconfig.cache
 C:\Users\paolo.bruzzo\Documents\C#_projects\OfficePartyPlanner\obj\Debug\net9.0\ref\OfficePartyPlanner.dll
+C:\Users\paolo.bruzzo\Documents\C#_projects\OfficePartyPlanner\obj\Debug\net9.0\OfficePartyPlanner.sourcelink.json

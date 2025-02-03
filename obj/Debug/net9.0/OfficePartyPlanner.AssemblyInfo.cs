@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OfficePartyPlanner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+810ff2b27ed596b2dc35b04f3687aff53007d46f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f807a743d818731776bb68da559c0c94ce1e05b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("OfficePartyPlanner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OfficePartyPlanner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
